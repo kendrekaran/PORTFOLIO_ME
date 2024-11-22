@@ -37,7 +37,7 @@ const Dashboard = () => {
         <div className="text-center">
           <h2 className="flex items-center justify-center text-3xl sm:text-5xl  font-bold capitalize">
              
-            Testamonials
+            Testimonials
           </h2>
         </div>
 
