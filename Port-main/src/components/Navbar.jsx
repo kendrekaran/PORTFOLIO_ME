@@ -9,7 +9,7 @@ const Nav = () => {
   const [activeNav, setActiveNav] = useState("#");
 
   return (
-    <nav className="">
+    <nav className="hidden sm:inline-block">
       <a
         href="#home"
         onClick={() => setActiveNav("#")}
