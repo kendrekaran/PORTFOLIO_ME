@@ -47,7 +47,7 @@ const Home = () => {
       />
 
       {/* Content Container */}
-      <div className="relative z-10 flex flex-col-reverse md:flex-row items-center gap-12 md:gap-20 lg:gap-24 mt-4 md:mt-0 xl:gap-28">
+      <div className="relative z-10 flex flex-col-reverse lg:flex-row items-center gap-12 md:gap-20 lg:gap-24 mt-4 md:mt-0 xl:gap-28">
         {/* Text Section */}
         <motion.div
           className="text-center md:text-left flex flex-col items-center md:items-start"
