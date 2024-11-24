@@ -24,7 +24,7 @@ const Home = () => {
   };
 
   return (
-    <section id="home" className="h-[90vh] flex flex-col items-center justify-center p-6 pt-0 md:p-20 xl:items-start font-poppins">
+    <section id="home" className="h-[90vh] flex flex-col items-center justify-center p-6 pb-10 md:p-20 xl:items-start font-poppins">
       {/* Particles background */}
       <Particles
         id="tsparticles"
