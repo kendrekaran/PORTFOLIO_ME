@@ -48,7 +48,7 @@ const About = () => {
             <p className="mt-4 font-semibold">Karan K.</p>
             <div className="flex gap-4 mt-4">
               <a
-                href="https://x.com/Kendre_Karan01"
+                href="https://x.com/kendrekaran_?t=ccIh0ZQZ5aQP2HH91Wr2mg&s=09"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-red-900 hover:text-red-900"
@@ -74,7 +74,7 @@ const About = () => {
             transition={{ duration: 0.6 }}
           >
             <img
-              src="https://pbs.twimg.com/profile_images/1474856894262956032/FZVX9Jxh_400x400.jpg"
+              src="https://pbs.twimg.com/profile_images/1859666391345004546/Ct4tLoJC.jpg"
               className="h-32 w-32 md:h-44 md:w-44 rounded-full object-cover"
               alt="Yashwardhan D."
             />
