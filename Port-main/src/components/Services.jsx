@@ -58,7 +58,7 @@ export default function Services() {
                 <span className="text-sm font-medium text-primary">FOR BASIC USE</span>
                 <h3 className="text-2xl font-bold">Basic</h3>
                 <div className="flex items-baseline gap-1">
-                  <span className="text-3xl font-bold">$5</span>
+                  <span className="text-3xl font-bold">$10</span>
                   <span className="text-gray-500">/ project</span>
                 </div>
               </div>
@@ -88,7 +88,7 @@ export default function Services() {
                 <span className="text-sm font-medium text-primary">FOR Business</span>
                 <h3 className="text-2xl font-bold">Standard</h3>
                 <div className="flex items-baseline gap-1">
-                  <span className="text-3xl font-bold">$10</span>
+                  <span className="text-3xl font-bold">$30</span>
                   <span className="text-gray-500">/ project</span>
                 </div>
               </div>
@@ -118,7 +118,7 @@ export default function Services() {
                 <span className="text-sm font-medium text-primary">MOST POPULAR</span>
                 <h3 className="text-2xl font-bold">Premium</h3>
                 <div className="flex items-baseline gap-1">
-                  <span className="text-3xl font-bold">$25</span>
+                  <span className="text-3xl font-bold">$60</span>
                   <span className="text-gray-500">/ project</span>
                 </div>
               </div>
