@@ -22,7 +22,7 @@ const Contact = () => {
       Email: <span className="text-white">Karankendreg@gmail.com</span>
     </p>
     <p className="text-red-900 text-sm md:text-lg mt-2">
-      Whatsapp: <span className="text-white">+918767443431</span>
+      Whatsapp: <i className="text-white">Removed</i>
     </p>
   </div>
 
